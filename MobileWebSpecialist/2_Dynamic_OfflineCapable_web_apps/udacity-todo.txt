@@ -1,0 +1,11 @@
+[ Done ]  1. Change the data source for your restaurant requests to pull JSON from the server, parse the response and use the response to generate the site UI.
+		
+			- CheckOut "fetch"
+			- does it need polfyfill?
+			- load the restaurantjs with it, handle the requests
+
+2. Cache the JSON responses for offline use by using the IndexedDB API.
+	- watch the session about indexedDB and check it out
+
+3. Follow the recommendations provided by Lighthouse to achieve the required performance targets.
+	
